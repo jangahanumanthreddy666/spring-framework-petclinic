@@ -512,7 +512,7 @@
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://project1.cracgd6mdv9f.ap-south-1.rds.amazonaws.com:3306/project1?useUnicode=true</jdbc.url>
-                <jdbc.username><petclinc/jdbc.username>
+                <jdbc.username>petclinc</jdbc.username>
                 <jdbc.password>PETCLINIC123</jdbc.password>
             </properties>
             <dependencies>
